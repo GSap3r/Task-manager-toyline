@@ -1,0 +1,154 @@
+Urgente,30,Reparar maquina de montagem
+Normal,15,Montar carrinho de madeira
+Opcional,60,Treinar equipe em nova maquina
+Normal,20,Pintar boneca de pano
+Urgente,25,Falta de materia prima "madeira"
+Opcional,45,Otimizar processo de embalagem
+Normal,10,Embalar jogo de tabuleiro
+Urgente,40,Problema de qualidade em ursinho de pelucia
+Normal,18,Montar quebra cabeca
+Opcional,30,manutenção preventiva nas maquinas de pintura
+Urgente,35,Reparar esteira transportadora
+Normal,12,Cortar tecido para bonecas
+Opcional,50,Atualizar software de design
+Urgente,28,Falta de cola especial
+Normal,22,Lixar bordas de carrinhos
+Opcional,40,Reorganizar almoxarifado
+Urgente,45,Motor da maquina de costura quebrado
+Normal,17,Encaixar peças de plastico
+Opcional,55,Criar manual de operações
+Urgente,33,Vazamento na linha de pintura
+Normal,14,Colar olhos de boneca
+Opcional,25,Testar novos fornecedores
+Urgente,50,Sobrecarga no circuito elétrico
+Normal,19,Ajustar braços robóticos
+Opcional,35,Analisar dados de produção
+Urgente,22,Falta de pilhas para brinquedos
+Normal,11,Empacotar miniaturas
+Opcional,60,Capacitação em segurança
+Urgente,38,Problema no sistema hidráulico
+Normal,16,Montar kit de ferramentas
+Opcional,20,Revisar checklist de qualidade
+Urgente,27,Ruído anormal na prensa
+Normal,13,Colar adesivos em brinquedos
+Opcional,45,Pesquisar materiais ecologicos
+Urgente,42,Temperatura excessiva no forno
+Normal,21,Envelopar quebra-cabeças
+Opcional,30,Implementar 5S na produção
+Urgente,31,Rolamento danificado
+Normal,24,Preparar kits de montagem
+Opcional,50,Desenvolver novo protótipo
+Urgente,29,Falta de tinta vermelha
+Normal,18,Inspecionar peças fundidas
+Opcional,40,Estudo de ergonomia
+Urgente,36,Vazamento de ar comprimido
+Normal,15,Alinhar eixos de carrinhos
+Opcional,55,Workshop de inovação
+Urgente,44,Problema no sensor óptico
+Normal,20,Secar peças pintadas
+Opcional,25,Calibrar balanças
+Urgente,39,Falta de parafusos especiais
+Normal,17,Testar circuitos eletrônicos
+Opcional,45,Avaliar embalagens sustentáveis
+Urgente,32,Desalinhamento na esteira
+Normal,19,Lubrificar correntes
+Opcional,60,Curso de gestão de tempo
+Urgente,41,Superaquecimento compressor
+Normal,14,Colocar baterias em brinquedos
+Opcional,35,Mapear fluxo de valor
+Urgente,26,Falta de tecido pelucia
+Normal,22,Encaixar rodas em veículos
+Opcional,50,Simular processos produtivos
+Urgente,37,Válvula pneumática travada
+Normal,16,Verificar tensão em motores
+Opcional,40,Pesquisa de satisfação
+Urgente,43,Problema no CAD industrial
+Normal,21,Ajustar moldes de injeção
+Opcional,30,Padronizar ferramentas
+Urgente,34,Falta de cartuchos de tinta
+Normal,13,Testar resistência de materiais
+Opcional,55,Plano de contingência
+Urgente,40,Alarme de emergência ativado
+Normal,18,Preparar displays para feira
+Opcional,25,Auditoria interna
+Urgente,47,Correia transportadora rompida
+Normal,15,Organizar cabos elétricos
+Opcional,45,Brainstorming de produtos
+Urgente,31,Falta de agulhas industriais
+Normal,20,Medir níveis de ruído
+Opcional,60,Programa de mentoria
+Urgente,38,Problema no servidor CAD
+Normal,17,Apertar conexões
+Opcional,35,Análise SWOT produção
+Urgente,45,Vazamento óleo hidráulico
+Normal,14,Selar embalagens
+Opcional,50,Feira de fornecedores
+Urgente,29,Falta de molas
+Normal,23,Conferir manual de instruções
+Opcional,40,Estudo tempos e métodos
+Urgente,36,Display quebrado no painel
+Normal,16,Substituir lâmpadas área
+Opcional,55,Integração de sistemas
+Urgente,42,Problema no RFID
+Normal,19,Calibrar dosadores
+Opcional,30,Workshop de qualidade
+Urgente,39,Falta de EVA para solados
+Normal,18,Testar brinquedos aquáticos
+Opcional,45,Pesquisa de mercado
+Urgente,33,Interferência eletromagnética
+Normal,15,Ajustar pressão pneumática
+Opcional,60,Programa de bem-estar
+Urgente,44,Ventilador exaustor quebrado
+Normal,20,Colocar etiquetas RFID
+Opcional,25,Relatório de produtividade
+Urgente,37,Falta de lixa diversos grãos
+Normal,17,Conferir ordens produção
+Opcional,50,Visita técnica fornecedor
+Urgente,41,Problema no leitor código
+Normal,14,Preparar amostras
+Opcional,35,Análise custo-benefício
+Urgente,46,Compressor de ar com defeito
+Normal,21,Organizar bancada trabalho
+Opcional,40,Implementar kanban
+Urgente,32,Falta de plástico ABS
+Normal,16,Testar dispositivos sonoros
+Opcional,55,Plano de carreira
+Urgente,43,Problema no torno CNC
+Normal,19,Ajustar esteira rolante
+Opcional,30,Diagnóstico organizacional
+Urgente,38,Falta de óleo lubrificante
+Normal,18,Substituir filtros
+Opcional,45,Benchmarking setor
+Urgente,35,Alarme falso sistema incêndio
+Normal,15,Conferir listagem materiais
+Opcional,60,Programa de ideias
+Urgente,40,Vazamento água resfriamento
+Normal,20,Apertar parafusos estruturais
+Opcional,25,Relatório manutenção
+Urgente,47,Falta de circuitos impressos
+Normal,17,Testar botões interativos
+Opcional,50,Visita cliente potencial
+Urgente,34,Problema no software CAM
+Normal,14,Limpar bicos de pintura
+Opcional,35,Análise de falhas
+Urgente,42,Esteira desregulada
+Normal,19,Substituir embalagens danificadas
+Opcional,30,Reunião cross-functional
+Urgente,39,Falta de feltro
+Normal,16,Calibrar termômetros
+Opcional,45,Estudo viabilidade
+Urgente,36,Problema no elevador carga
+Normal,18,Conferir lotes produção
+Opcional,55,Plano de sucessão
+Urgente,44,Falta de borracha EVA
+Normal,20,Organizar ferramentas
+Opcional,25,Checklist segurança
+Urgente,31,Vazamento gás comprimido
+Normal,15,Testar luzes brinquedos
+Opcional,50,Desenvolvimento liderança
+Urgente,45,Problema no scanner 3D
+Normal,17,Ajustar pressão moldes
+Opcional,40,Pesquisa clima organizacional
+Urgente,38,Falta de acessórios metalicos
+Normal,19,Conferir dimensões peças
+Opcional,30,Workshop criatividade
